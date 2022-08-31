@@ -7,6 +7,4 @@
 
 ##### What is Big Data?
 
-###### With the onset of the internet humans started producing huge amout of data. 
-
-jashy
+With the dawn of the age of internet, humans started producing massive amounts of data. Which can be structured, semi-structured or unstructutred. Data in such a massive volume that it could not be analysed by traditional tools. 
